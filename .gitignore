@@ -1,0 +1,8 @@
+# Pythonキャッシュ
+__pycache__/
+tm88iv/__pycache__/
+tests/__pycache__/
+
+# テスト用データ・フォント
+tests/data/
+tests/fonts/
