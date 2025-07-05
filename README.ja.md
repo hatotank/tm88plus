@@ -1,4 +1,8 @@
-# TM88IV
+# TM88PLUS
+
+作業中
+
+----
 
 このリポジトリは、もともと [WPT](https://github.com/hatotank/WPT) プロジェクトの一部であった `TM88IV` クラスを含みます。
 

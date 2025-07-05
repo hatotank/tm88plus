@@ -1,4 +1,8 @@
-# TM88IV
+# TM88PLUS
+
+WIP
+
+----
 
 This repository contains the `TM88IV` class, originally part of the [WPT](https://github.com/hatotank/WPT) project. The `TM88IV` class has been extracted for easier maintenance and reuse as a standalone library.
 
